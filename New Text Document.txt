@@ -1,0 +1,14 @@
+Hey All!
+I'm glad to share that I've successfully completed #task3 as a part of Python Intern under #syncinterns SYNC INTERN'S.
+
+Task 3:URL Shortener with Python
+
+Language used : Python
+IDE : Sublime Text
+
+Github: https://github.com/SagarBhuse/URL_Shortener_python
+
+
+I would like to thank SYNC INTERN'S for giving me this great opportunity to show my skills through the internship
+#internship #syncinterns
+#task3 #intern #github #python #like #syncintern #syncinterns
